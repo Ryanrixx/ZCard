@@ -10,9 +10,13 @@ Code Quality	ESLint
 ### ✨ Features
 
 ✅ Clean and professional digital business identity
+
 ✅ Fully responsive layout for all screen sizes
+
 ✅ Fast performance powered by Vite
+
 ✅ Easy to customize profile data
+
 ✅ Modern design with smooth styling from Tailwind CSS
 
 ### 📦 Getting Started
