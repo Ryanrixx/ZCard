@@ -30,17 +30,6 @@ npm run dev
 Build for production:
 npm run build
 
-### 📁 Folder Structure
-Zcard/
- ├─ index.html
- ├─ package.json
- ├─ tailwind.config.ts
- ├─ tsconfig.json
- ├─ vite.config.ts
- └─ src/
-     ├─ assets/
-     ├─ components/
-     └─ styles/
 
 ### 🔗 Deployment Options
 
@@ -61,8 +50,5 @@ This project is licensed for personal and educational use.
 Feel free to modify and enhance it as needed 👍
 
 ### 💬 Support
-If you like this project, consider giving it a ⭐ on GitHub!
-For improvements or suggestions — feel free to open an issue 🤝
-
 If you like this project, consider giving it a ⭐ on GitHub!
 For improvements or suggestions — feel free to open an issue 🤝
