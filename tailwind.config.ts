@@ -68,11 +68,11 @@ export default {
           200: "#ffc9c9",
           300: "#ffa8a8",
           400: "#ff6b6b",
-          500: "#fa5252", // main red tone
+          500: "#fa5252", 
           600: "#e03131",
           700: "#c92a2a",
           800: "#a51111",
-          900: "#820000", // darkest red
+          900: "#820000",
         },
       },
       borderRadius: {
